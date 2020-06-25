@@ -9,8 +9,8 @@ This application is color coded indicate whether it is in past, present, or furt
 
 ### Screen Shot
 
-##### Desktop View
-![Screenshot](assets/demo/demo.png)
+##### Demonstration
+![Screenshot](assets/demo/demo.gif)
 
 
 
